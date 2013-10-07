@@ -1,0 +1,17 @@
+{
+    "name": "pmaps",
+    "version": "0.0.1",
+    "ignore": [
+       "**/.*",
+       "node_modules",
+       "components"
+    ],
+    "dependencies": {
+        "d3": "git://github.com/mbostock/d3.git#~3.2.8"
+     },
+    "devDependencies": {
+        "simple": "https://github.com/michaelparenteau/simple.git",
+        "topojson": "~1.2.3",
+        "jquery": "~2.0.3"
+    }
+}
